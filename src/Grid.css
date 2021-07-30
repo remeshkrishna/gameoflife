@@ -1,0 +1,16 @@
+.Rows{
+    display: flex;
+    justify-content: center;
+}
+.Grid{
+    margin-top: 30px;
+}
+
+input{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+button{
+    margin-top: 20px;
+}
